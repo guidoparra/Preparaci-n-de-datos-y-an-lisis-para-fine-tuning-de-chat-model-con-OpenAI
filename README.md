@@ -1,5 +1,5 @@
-#Procesamiento de Datos para Fine-Tuning de Modelos de Chat
-Este repositorio contiene un Jupyter Notebook (data_preparation.ipynb) diseñado para preparar y validar datasets en formato JSONL, específicamente para fine-tuning de modelos de chat como los de OpenAI.
+Procesamiento de Datos para Fine-Tuning de Modelos de Chat
+Este repositorio contiene un Jupyter Notebook (data_preparation.ipynb) diseñado para preparar y validar datasets en formato JSONL, específicamente para fine-tuning de modelos de chat como los de OpenAI. El dataset utilizado abarca a la serie de televisión "Rick and Morty".
 
 📌 Características principales
 Validación de estructura: Verifica que los datos cumplan con el formato requerido para fine-tuning.
